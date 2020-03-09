@@ -5,3 +5,6 @@
 * Maak gebruik van String object methoden
 * Maak gebruik van functie om de codelogica te voorzien
 * Schrijf een functie Validate() die controleert of er tekst ingegeven werd
+
+![demo1](img/demo1.png)
+![demo2](img/demo2.png)

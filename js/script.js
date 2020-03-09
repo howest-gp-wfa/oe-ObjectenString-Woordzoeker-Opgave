@@ -16,7 +16,6 @@ function Initialize()
 
    //add eventlisteners
    AddEventListeners();
-   
 }
 
 
