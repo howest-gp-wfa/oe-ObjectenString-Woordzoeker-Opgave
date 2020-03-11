@@ -13,9 +13,10 @@ function Initialize()
 {
    //bind HTML elements
    BindHTMLElements();
-
+   
    //add eventlisteners
    AddEventListeners();
+   let v = new String();
 }
 
 
